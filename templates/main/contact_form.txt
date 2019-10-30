@@ -1,0 +1,11 @@
+Name:
+{{name}}
+
+Phone:
+{{phone}}
+
+Message:
+{{message}}
+
+Sender:
+{{from_email}}
